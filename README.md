@@ -1,4 +1,4 @@
-![logo](https://github.com/nitinmishra28/Nitin-Mishra/blob/main/Banner1.png)
+![logo](https://github.com/nitinmishra28/nitinmishra28/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Nitin Mishra</h1>
 <h3 align="center">A passionate Software Engineer </h3>
 
